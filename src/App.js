@@ -1,4 +1,4 @@
-import './App.css';
+//import './App.css';
 import { useEffect, useState, useRef } from 'react'
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Gallery from './Components/Gallery';
